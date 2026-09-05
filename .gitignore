@@ -1,6 +1,0 @@
-__pycache__/
-venv/
-*.log
-test_*.py
-test_*.json
-*.bak
