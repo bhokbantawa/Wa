@@ -1,0 +1,6 @@
+Flask
+gunicorn
+aiohttp
+requests
+beautifulsoup4
+lxml
