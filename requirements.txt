@@ -1,0 +1,7 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+requests>=2.32.0
+urllib3>=2.2.0
+pydantic>=2.7.0
+wrapper-tls-requests>=1.2.5
+curl-cffi>=0.7.0
